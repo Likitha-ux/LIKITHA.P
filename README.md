@@ -21,6 +21,6 @@ Circuit Design ✓ - Detailed connection guide for Arduino Uno
 Code ✓ - Complete Arduino sketch with libraries
 Output Demonstration ✓ - Working simulation with LCD and serial output
 # OUTPUT
-
+<img width="1168" height="555" alt="Image" src="https://github.com/user-attachments/assets/95463e9c-930e-408b-b570-23b57a2326bc" />
 
 
